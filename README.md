@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divum-selvakumar
+- 👋 Hi, I’m selvakumar
 - 👀 I’m interested in Backend Developement [python]
 - 🌱 I’m currently learning Java spring boot
 - 💞️ I’m looking to collaborate on any backend development
